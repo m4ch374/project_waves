@@ -1,5 +1,10 @@
 # Project Waves
 
+
+This document details the background of Waves and how to set it up 
+for development.
+Written by Henry Wan.
+
 ## :milky_way: 1. Origin Story 
 
 It is often difficult to co-ordinate and arrange meetings, especially for a large group where people have different timetables.
