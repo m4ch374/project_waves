@@ -12,7 +12,7 @@ It is often difficult to co-ordinate and arrange meetings, especially for a larg
 Even though we have tools like When2Meet that facilitates this process, it is still not a streamlined experience.
 
 And as a wise man once said:
-> "Idk bro, When2Meet is kinda shit" - Aristotle (probably)
+> "Idk bro, When2Meet is kinda crap" - Aristotle (probably)
 
 Which is how this project was born, where we seek to make a webapp that streamlines and provide a better experience when it comes to arranging meetings.
 
